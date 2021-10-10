@@ -1,5 +1,6 @@
 # JMS-PHP
-A repository for Laboratory Activity (Jail Management System) using PHP
+# Individual Project
+A repository for Laboratory Activity (Jail Management System) using PHP.
 
 Main Features:
 - Prisoner Management
